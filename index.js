@@ -1,0 +1,1 @@
+console.log("Newton School learning");
